@@ -55,8 +55,8 @@ menu:
     url:               /about/
   - title:             Resume
     url:               /Resume/
-  - title:             Documentation
-    url:               /forms-by-example/
+  #- title:             Documentation
+  #  url:               /forms-by-example/
 
 
 # Add links to the footer.
