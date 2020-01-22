@@ -5,6 +5,9 @@ Alright dude. Here it is.
 
 These are the instructions for how you can make this yours. Yours and yours only.
 
+
+Right now, the page url is: https://tykiww.github.io/arrio-analytic.github.io
+
 1. Go to the top right-hand corner and click "Fork"
 2. Go to Settings, and on the header titled "Github Pages" click on the dropdown under source and select Master Branch.
   - This will load your page. If you get a green banner that says `Your site is published at https://arrio-analytic.github.io/` after refreshing your page 5-6 times, you are good to go! This step may take a while so be patient.
