@@ -6,7 +6,7 @@ Alright dude. Here it is.
 These are the instructions for how you can make this yours. Yours and yours only.
 
 
-Right now, the page url is: https://tykiww.github.io/arrio-analytic.github.io
+Right now, the page url is: https://tykiww.github.io/analytic-arrio.github.io
 
 1. Go to the top right-hand corner and click "Fork"
 2. Go to Settings, and on the header titled "Github Pages" click on the dropdown under source and select Master Branch.
