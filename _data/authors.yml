@@ -29,8 +29,8 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <arrio-analytic>
+    # twitter:         <username>
+    github:          arrio-analytic
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -60,7 +60,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        <arrio-hoffman051991>
+    linkedin:        arrio-hoffman051991
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
