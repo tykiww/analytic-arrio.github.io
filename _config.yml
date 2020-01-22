@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://tykiww.github.io/project_portfolio
+url:                   https://tykiww.github.io/arrio-analytic.github.io # Change this to https://arrio-analytic.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -12,7 +12,7 @@ url:                   https://tykiww.github.io/project_portfolio
 # Use the empty string '' otherwise.
 # For GitHub project sites, this is usually the name of the project,
 # e.g. `/hydejack`.
-baseurl:               '/project_portfolio'
+baseurl:               '/arrio-analytic.github.io' # TYKI: make sure to delete and just leave this as ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
@@ -29,7 +29,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Hell yeah, look at me".
+  "Hell yeah, look at me."
   I'm hot.
 
 # A list of keywords for your blog
@@ -50,7 +50,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Blog
-    url:               /project_portfolio/
+    url:               /arrio-analytic.github.io/ # TYKI: Change this to just /
   - title:             About
     url:               /about/
   - title:             Resume
@@ -74,7 +74,7 @@ copyright:             © 2018. All rights reserved.
 permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              4
+paginate:              3
 paginate_path:         /page-:num/
 
 
