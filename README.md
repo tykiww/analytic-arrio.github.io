@@ -10,7 +10,7 @@ Right now, the page url is: https://tykiww.github.io/analytic-arrio.github.io
 
 1. Go to the top right-hand corner and click "Fork"
 2. Go to Settings, and on the header titled "Github Pages" click on the dropdown under source and select Master Branch.
-  - This will load your page. If you get a green banner that says `Your site is published at https://arrio-analytic.github.io/` after refreshing your page 5-6 times, you are good to go! This step may take a while so be patient.
+  - This will load your page. If you get a green banner that says `Your site is published at https://analytic-arrio.github.io/` after refreshing your page 5-6 times, you are good to go! This step may take a while so be patient.
   - Now you can go to `https://analytic-arrio.github.io/` and view what you have so far.
 2. Locate the `_config.yml` file and follow the instructions in the `#` sections that contain `TYKI:` 
   - You are also welcome to make any other changes. Just don't ruin the style guide (format) and you should be good.
