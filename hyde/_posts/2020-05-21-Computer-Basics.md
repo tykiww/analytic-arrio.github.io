@@ -30,7 +30,7 @@ Kind of a funny video, but is a useful explanation on the purpose of a GPU. More
 
 ### Understanding Deep Learning Hardware
 
-This [page](https://timdettmers.com/2018/12/16/deep-learning-hardware-guide/) is probably the staple for all gpu computing clustering
+This web [page](https://timdettmers.com/2018/12/16/deep-learning-hardware-guide/) is probably the staple for all gpu computing clustering material. This page will be heavily referenced moving forward.
 
 ##### TL;DR (Directly taken from page)
 
