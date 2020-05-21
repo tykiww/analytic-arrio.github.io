@@ -14,7 +14,7 @@ General Basics
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ExxFxD4OSZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Can be confusing to understand the use of PCI express lanes. Two good videos to understand its purpose.
+Can be confusing to understand the use of PCI express lanes. A good retro video to understand its purpose.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PrXwe21biJo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
