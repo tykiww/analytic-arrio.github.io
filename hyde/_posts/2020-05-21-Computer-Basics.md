@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Hyde
+title: Computer Basics
 description: >
   Useful general information on Computer parts
 author: Tyki
@@ -10,7 +10,9 @@ noindex: true
 
 ### Understanding Basic Computer Parts
 
-General Basics. If the video doesn't play, click [here]().
+If you feel that this is too basic, please skip over this section.
+
+General Basics. If the video doesn't play, click [here](https://www.youtube.com/embed/ExxFxD4OSZ0).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ExxFxD4OSZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
