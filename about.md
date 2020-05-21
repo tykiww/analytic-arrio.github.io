@@ -4,21 +4,6 @@ image: /assets/img/blog/hydejack-8.png
 
 # About
 
-{:.lead}
 
-
-
-Hi, I'm Arrio and I want to quit my job.
-
-I can add photos like this.
-![Screenshot](assets/img/blog/hydejack-8.png)
-
-{:.lead srcset="/assets/img/blog/hydejack-8.png 1920w, /assets/img/blog/hydejack-8@0,5x.png 960w, /assets/img/blog/hydejack-8@0,25x.png 480w" data-width="1920" data-height="1080"}
-
-I have no idea what this figure and lead stuff does.
-
-{:.figure}
-
-
-
-Whoo
+This page has all the files necessary to learn the basics of gpu computing and HPC clustering.
+Of course, this is basic, but we can add and refer back to what we need here.
