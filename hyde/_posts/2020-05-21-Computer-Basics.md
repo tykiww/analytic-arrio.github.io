@@ -2,15 +2,14 @@
 layout: post
 title: Introducing Hyde
 description: >
-  Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content.
-author: arrio
+  Useful general information on Computer parts
+author: Tyki
 noindex: true
 ---
 
 
 ### Understanding Basic Computer Parts
 
-Useful general information on Computer parts
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ExxFxD4OSZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
