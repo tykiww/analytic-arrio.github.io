@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HPC Networking Basics
+title: Multi-GPU Multi-Node Networking Basics
 description: >
   Most Crucial Part of the Project.
 author: Tyki
