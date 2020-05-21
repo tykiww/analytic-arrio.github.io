@@ -10,12 +10,15 @@ noindex: true
 
 ### Understanding Basic Computer Parts
 
+General Basics
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ExxFxD4OSZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Can be confusing to understand the use of PCI express lanes. Two good videos to understand its purpose.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PrXwe21biJo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Another PCIe Lane explanation
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=LSSHuMHbCWo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
