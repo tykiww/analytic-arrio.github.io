@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://tykiww.github.io/analytic-arrio.github.io # TYKI: Change this to https://analytic-arrio.github.io
+url:                   https://tykiww.github.io/gpu_cluster # TYKI: Change this to https://analytic-arrio.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -12,7 +12,7 @@ url:                   https://tykiww.github.io/analytic-arrio.github.io # TYKI:
 # Use the empty string '' otherwise.
 # For GitHub project sites, this is usually the name of the project,
 # e.g. `/hydejack`.
-baseurl:               '/analytic-arrio.github.io' # TYKI: make sure to delete and just leave this as ''
+baseurl:               '/gpu_cluster' # TYKI: make sure to delete and just leave this as ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
@@ -24,13 +24,13 @@ title:                 Portfolio
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Honestly, I'm so cool dude."
+  "GPU Clustering Files"
   -**Arrio** 
 
 # A shorter description for the sidebar.
 tagline:               >
   "Hell yeah, look at me."
-  I'm hot.
+  Yayaya
 
 # A list of keywords for your blog
 keywords:              []
@@ -50,7 +50,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Blog
-    url:               /analytic-arrio.github.io/ # TYKI: Change this to just /
+    url:               /gpu_cluster/ # TYKI: Change this to just /
   - title:             About
     url:               /about/
   - title:             Resume
