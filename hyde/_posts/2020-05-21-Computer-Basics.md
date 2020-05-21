@@ -10,20 +10,21 @@ noindex: true
 
 ### Understanding Basic Computer Parts
 
-General Basics
+General Basics. If the video doesn't play, click [here]().
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ExxFxD4OSZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
-Can be confusing to understand the use of PCI express lanes. A good retro video to understand its purpose.
+Can be confusing to understand the use of PCI express lanes. A good retro video to understand its purpose. If the video doesn't play, click [here](https://www.youtube.com/embed/PrXwe21biJo).
 <hr>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PrXwe21biJo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
-Another PCIe Lane explanation
+Another PCIe Lane explanation. If the video doesn't play, click [here](https://www.youtube.com/watch?v=LSSHuMHbCWo).
 <hr>
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=LSSHuMHbCWo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
 
-Kind of a funny video, but is a useful explanation on the purpose of a GPU. More on that later.
+Kind of a funny video, but is a useful explanation on the purpose of a GPU. More on that later. If the video doesn't play, click [here](https://www.youtube.com/watch?v=6stDhEA0wFQ).
+<hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=6stDhEA0wFQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
