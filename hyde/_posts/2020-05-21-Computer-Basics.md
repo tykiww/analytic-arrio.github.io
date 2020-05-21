@@ -13,15 +13,15 @@ noindex: true
 General Basics
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ExxFxD4OSZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<hr>
 Can be confusing to understand the use of PCI express lanes. A good retro video to understand its purpose.
-
+<hr>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PrXwe21biJo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<hr>
 Another PCIe Lane explanation
-
+<hr>
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=LSSHuMHbCWo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<hr>
 
 Kind of a funny video, but is a useful explanation on the purpose of a GPU. More on that later.
 
